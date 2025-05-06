@@ -3,8 +3,8 @@ My name is Klimentiy.<br>I'm 20.<br>I am beginner PHP Developer.<br>Earlier inte
 
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chanskiy777@mail.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/glzgng)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chanskiy777@mail.ru)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@tsunamicross1061)
 
 # 💻 Tech Stack:
