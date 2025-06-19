@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Klimentiy.<br>I'm 20.<br>I am beginner PHP Developer.<br>Earlier interested in ML and DS.<br>Here to sharing my projects, learning and develop more.<br>Hard work pays off!<br><br> P.S.: That's not me on photo, chill out
+My name is Klimentiy.<br>I'm 20.<br>I am beginner PHP Developer.<br>Earlier interested in ML and DS.<br>Here to sharing my projects, learning and develop more.<br>Hard work pays off!<br>Other interests:<ul><li>Football</li><li>Music</li><li>Video Editing</li></ul>
 
 
 ## 🌐 Socials:
