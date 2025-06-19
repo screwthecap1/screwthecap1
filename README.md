@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Klimentiy.<br>I'm 20.<br>I am beginning PHP Developer.<br>Earlier interested in ML and DS.<br>Here to sharing my projects, learning and develop more things.<br>Hard work pays off<br><br>Other interests:<ul><li>Football (Arsenal FC fan, fav player - CR7)</li><li>Music (Prefer Hip-hop/R&B, making reviews on it)</li><li>Video Editing</li></ul>
+My name is Klimentiy.<br>I'm 20.<br>I am beginning PHP (Laravel) Developer.<br>Earlier interested in ML and DS.<br>Here to sharing my projects, learning and develop more things.<br>Hard work pays off<br><br>Other interests:<ul><li>Football (Arsenal FC fan, fav player - CR7)</li><li>Music (Prefer Hip-hop/R&B, making reviews on it)</li><li>Video Editing</li></ul>
 
 
 ## 🌐 Socials:
