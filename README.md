@@ -1,5 +1,5 @@
 # 💫 About Me:
-<?php<br><br>class Profile {<br>    public string $main_dir = 'BackEnd Developer';<br>    public array $learning = ['Software Architecture', 'Clean Code', 'Databases'];<br>    public string $projects = 'Open-source & Pet-projects on GitHub';<br>    public array $interests = ['Football', 'Music', 'Video Editing'];<br>    public string $motto = 'Hard work pays off';<br>    public string $goals = 'Grow as Developer & contribute to open source';<br>}<br><br>$me = new Profile();<br>
+```php<?php<br><br>class Profile {<br>    public string $main_dir = 'BackEnd Developer';<br>    public array $learning = ['Software Architecture', 'Clean Code', 'Databases'];<br>    public string $projects = 'Open-source & Pet-projects on GitHub';<br>    public array $interests = ['Football', 'Music', 'Video Editing'];<br>    public string $motto = 'Hard work pays off';<br>    public string $goals = 'Grow as Developer & contribute to open source';<br>}<br><br>$me = new Profile();<br>
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/glzgng)
